@@ -1,12 +1,12 @@
 baseURL = "/"
-title = "recycleleash"
+title = "TEST recycleleash"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "recycleleash" # title for frontpage, may include image
+fancyTitle = "TEST recycleleash" # title for frontpage, may include image
 copyright = "recycleleash"
 description = 'leashes made from recycled materials'
 startbuttonText = "linktr.ee"
